@@ -13,7 +13,7 @@ options(dplyr.summarise.inform = FALSE)
 
 
 # Parameters
-N <- 1e8
+N <- 1e7
 K <- 100
 
 # Data set
